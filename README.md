@@ -1,5 +1,7 @@
 # Byte Size ASL
 
+This project was created for [Ignition Hacks 2021](https://devpost.com/software/byte-size-asl)
+
 ## Inspiration
 Despite modern technological innovation, the advent and value of artificial intelligence has largely gone unused in the domain of education. Byte Size ASL aims to encourage the integration of computational thinking within the very foundation of contemporary society. **American Sign Language (ASL)** is used only by approximately **0.2%** of the American population. Byte Size ASL seeks to prove the value of machine learning in education by providing an accessible methodology as a means to deliver a gateway into the world of ASL—_byte sized_.
 
