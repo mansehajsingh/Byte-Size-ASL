@@ -2,6 +2,7 @@
 
 This project was created for [Ignition Hacks 2021](https://devpost.com/software/byte-size-asl)
 
+Please click on the image below to launch a video demo! (YouTube)
 [![Watch the Demo!](https://img.youtube.com/vi/XezNpLEA-8E/hqdefault.jpg)](https://www.youtube.com/watch?v=XezNpLEA-8E)
 
 ## Inspiration
